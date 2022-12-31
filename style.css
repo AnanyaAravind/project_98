@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(209, 235, 237);
+    font-family:monospace;
+    text-align:center;
+}
+h1{
+    color:rgb(48, 101, 86);
+}
+h3{
+    font-size: 30px;
+color:rgb(57, 147, 64);
+}
+h4{
+    font-size:35px
+   
+}
+img{
+    width:400;
+    height:250;
+    box-shadow:0 6px 8px rgb(48, 101, 86) ;
+}
+label{
+    font-size:20px;
+}
+button{
+    size:100px
+}
+
+img:hover{
+    border-radius: 120px;
+}
